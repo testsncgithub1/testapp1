@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="a760fefb135d2200ed373d62f244b0d9" sys_domain="global" table="x_test_application_main" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:05</sys_created_on>
+            <sys_id>e360fefb135d2200ed373d62f244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_test_application_main" sys_domain="global" view="Default view">a760fefb135d2200ed373d62f244b0d9</sys_ui_section>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:05</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owner</element>
+            <position>1</position>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:05</sys_created_on>
+            <sys_id>6760fefb135d2200ed373d62f244b0dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_test_application_main" sys_domain="global" view="Default view">a760fefb135d2200ed373d62f244b0d9</sys_ui_section>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:05</sys_created_on>
+            <sys_id>27607e7f135d2200ed373d62f244b0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_test_application_main" sys_domain="global" view="Default view">a760fefb135d2200ed373d62f244b0d9</sys_ui_section>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stuff</element>
+            <position>3</position>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:05</sys_created_on>
+            <sys_id>a7607e7f135d2200ed373d62f244b0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_test_application_main" sys_domain="global" view="Default view">a760fefb135d2200ed373d62f244b0d9</sys_ui_section>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:05</sys_created_on>
+            <sys_id>2b607e7f135d2200ed373d62f244b0ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_test_application_main" sys_domain="global" view="Default view">a760fefb135d2200ed373d62f244b0d9</sys_ui_section>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:05</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_test_application_main</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:38:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a760fefb135d2200ed373d62f244b0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_test_application_main</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test_application" source="x_test_application">9ea2163713992200ed373d62f244b01e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Test_application">9ea2163713992200ed373d62f244b01e</sys_scope>
+            <sys_update_name>sys_ui_section_a760fefb135d2200ed373d62f244b0d9</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:38:04</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

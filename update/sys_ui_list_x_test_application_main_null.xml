@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_test_application_main" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>owner</element>
+            <list_id display_value="x_test_application_main" element="NULL" name="x_test_application_main" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c0ea6f7135d2200ed373d62f244b00a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:27:30</sys_created_on>
+            <sys_id>700ea6f7135d2200ed373d62f244b00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:27:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>stuff</element>
+            <list_id display_value="x_test_application_main" element="NULL" name="x_test_application_main" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">7c0ea6f7135d2200ed373d62f244b00a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:27:30</sys_created_on>
+            <sys_id>f00ea6f7135d2200ed373d62f244b00b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:27:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_test_application_main</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2016-08-24 17:27:30</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7c0ea6f7135d2200ed373d62f244b00a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_test_application_main</sys_name>
+            <sys_package display_value="Test_application" source="x_test_application">9ea2163713992200ed373d62f244b01e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Test_application">9ea2163713992200ed373d62f244b01e</sys_scope>
+            <sys_update_name>sys_ui_list_x_test_application_main_null</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2016-08-24 17:27:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

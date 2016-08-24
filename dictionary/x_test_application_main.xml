@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="main" max_length="40" name="x_test_application_main" type="collection">
+        <element label="owner" max_length="40" name="owner" reference="sys_user" type="string"/>
+        <element label="stuff" max_length="40" name="stuff" type="string"/>
+    </element>
+</database>

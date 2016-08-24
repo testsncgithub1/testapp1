@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>true</is_fulfillment>
+        <name>x_test_application_main</name>
+        <owner_condition table="x_test_application_main">sys_created_by=javascript:gs.getUserName()^EQ<item endquery="false" field="sys_created_by" goto="false" newquery="false" operator="=" or="false" value="javascript:gs.getUserName()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </owner_condition>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>david.terry@snc</sys_created_by>
+        <sys_created_on>2016-08-24 17:05:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c2e8e6ff131d2200ed373d62f244b0e7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_test_application_main</sys_name>
+        <sys_package display_value="Test_application" source="x_test_application">9ea2163713992200ed373d62f244b01e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Test_application">9ea2163713992200ed373d62f244b01e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c2e8e6ff131d2200ed373d62f244b0e7</sys_update_name>
+        <sys_updated_by>david.terry@snc</sys_updated_by>
+        <sys_updated_on>2016-08-24 17:33:00</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
